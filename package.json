@@ -9,7 +9,7 @@
     "dist",
     "index.d.ts"
   ],
-  "version": "0.1.92",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/selenehyun/react-split-pane"
